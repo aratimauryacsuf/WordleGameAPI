@@ -1,10 +1,4 @@
-# CPSC449Project4 - Group 23
-
-### Group Members:
-##### Arati Hanumanprasad Maurya
-##### Dillon Go
-##### Brijesh Prajapati
-##### Sreevidya Sreekantham
+# Wordle Game API
 ---
 ## **Setting up Redis**
 ##### `sudo apt install --yes redis`
