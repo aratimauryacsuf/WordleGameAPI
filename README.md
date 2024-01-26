@@ -1,5 +1,5 @@
 # Wordle Game API
----
+
 ## **Setting up Redis**
 ##### `sudo apt install --yes redis`
 ##### `sudo apt install --yes python3-hiredis`
