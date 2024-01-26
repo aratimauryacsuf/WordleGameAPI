@@ -1,0 +1,4 @@
+[DATABASES]
+PRIMARY_URL = 'sqlite+aiosqlite:///var/game_primary/mount/wordleGame.db'
+SECONDARY_1_URL = 'sqlite+aiosqlite:///var/game_secondary_1/mount/wordleGame.db'
+SECONDARY_2_URL = 'sqlite+aiosqlite:///var/game_secondary_2/mount/wordleGame.db'
